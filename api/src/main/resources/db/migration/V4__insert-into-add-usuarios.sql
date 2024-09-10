@@ -1,0 +1,2 @@
+insert into usuarios values (1, 'giovanni.teste1@email.com', '$2a$10$Y50UaMFOxteibQEYLrwuHeehHYfcoafCopUazP12.rqB41bsolF5.', 'ADMINISTRADOR');
+insert into usuarios values (2, 'giovanni.teste2@email.com', '$2a$10$Y50UaMFOxteibQEYLrwuHeehHYfcoafCopUazP12.rqB41bsolF5.', 'CLIENTE');
